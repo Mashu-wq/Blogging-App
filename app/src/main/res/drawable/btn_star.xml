@@ -1,0 +1,3 @@
+<selector xmlns:tools="http://schemas.android.com/tools" xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@android:drawable/btn_star" android:state_checked="true" tools:ignore="ResourceCycle" />
+</selector>

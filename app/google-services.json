@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "282172195548",
+    "project_id": "blog-app-9a56d",
+    "storage_bucket": "blog-app-9a56d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:282172195548:android:1af2bd8d55e5998bf32a19",
+        "android_client_info": {
+          "package_name": "com.example.echopen"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1T1YqwaxEgjQ9t8NhBT9CGmJY2fF86z0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
